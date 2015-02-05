@@ -1,2 +1,2 @@
 # Labs
-Labs
+Lab assignments
